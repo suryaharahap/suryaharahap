@@ -16,5 +16,5 @@ I’m currently learning more about Flutter.
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryaharahap&theme=light&hide_langs_below=1" />
 </a>
 <a href="https://github.com/suryaharahap">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=suryaharahap&amp;show_icons=true&amp;count_private=true&amp;theme=cobalt" alt="GitHub Stats"/>
+ <img align="top" src="https://github-readme-stats.vercel.app/api?username=suryaharahap&amp;show_icons=true&amp;count_private=true&amp;theme=cobalt" alt="GitHub Stats"/>
 </a>
