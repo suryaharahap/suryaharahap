@@ -1,8 +1,8 @@
-### Hi, I'm Surya 👋
+### Hi there! <img src="https://raw.githubusercontent.com/suryaharahap/suryaharahap/master/wave.gif" width="30px">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suryaharahap&label=Views&color=blue&style=plastic" alt="suryaharahap" /> </p>
 
-As a person, I'm a very positive, competitive, thinker and have a strong willingness to learn.
-I’m currently learning more about Flutter.
+
+You can call me Surya. I am a Fullstack Developer & Tech enthusiast. I am always open to collaborating on projects and innovative/disruptive ideas. As a person, I'm a very positive, competitive, thinker and have a strong willingness to learn. Find out more about me & feel free to connect with me here
 
 [![Twitter: suryaharahap](https://img.shields.io/twitter/follow/SuryaHarahap18?style=social)](https://twitter.com/SuryaHarahap18)
 [![Linkedin: suryaharahap](https://img.shields.io/badge/-suryaharahap-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/suryaharahap)](https://www.linkedin.com/in/suryaharahap)
