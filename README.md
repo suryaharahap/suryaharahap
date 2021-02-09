@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suryaharahap&label=Views&color=blue&style=plastic" alt="suryaharahap" /> </p>
 
 
-You can call me Surya. I am a Fullstack Developer & Tech enthusiast. I am always open to collaborating on projects and innovative/disruptive ideas. As a person, I'm a very positive, competitive, thinker and have a strong willingness to learn. Find out more about me & feel free to connect with me here
+You can call me Surya. I am a iOS Developer & Tech enthusiast. I am always open to collaborating on projects and innovative/disruptive ideas. As a person, I'm a very positive, competitive, thinker and have a strong willingness to learn. Find out more about me & feel free to connect with me here
 
 [![Twitter: suryaharahap](https://img.shields.io/twitter/follow/SuryaHarahap18?style=social)](https://twitter.com/SuryaHarahap18)
 [![Linkedin: suryaharahap](https://img.shields.io/badge/-suryaharahap-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/suryaharahap)](https://www.linkedin.com/in/suryaharahap)
