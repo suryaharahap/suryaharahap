@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suryaharahap&label=Views&color=blue&style=plastic" alt="suryaharahap" /> </p>
 
 
-You can call me Surya. I'm a Software Engineer (iOS) and a highly motivated final-year Informatics Engineering. I am always open to collaborating on projects and innovative ideas. I like to discover, learn new things, eager to learn, and humble. Find out more about me [website (@suryaharahap)](https://suryaharahap.tech) & feel free to connect with me here. thanks
+You can call me Surya. I'm a Software Engineer (iOS) and a highly motivated final-year Informatics Engineering. I am always open to collaborating on projects and innovative ideas. I like to discover, learn new things, eager to learn, and humble. Find out more about me [website (@suryaharahap)](https://suryaharahap.me) & feel free to connect with me here. thanks
 
 [![Twitter: suryaharahap](https://img.shields.io/twitter/follow/SuryaHarahap18?style=social)](https://twitter.com/SuryaHarahap18)
 [![Linkedin: suryaharahap](https://img.shields.io/badge/-suryaharahap-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/suryaharahap)](https://www.linkedin.com/in/suryaharahap)
