@@ -1,6 +1,8 @@
 ### Hi there! <img src="https://raw.githubusercontent.com/suryaharahap/suryaharahap/master/wave.gif" width="30px">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suryaharahap&label=Views&color=blue&style=plastic" alt="suryaharahap" /> </p>
 
+<img src="https://raw.githubusercontent.com/suryaharahap/suryaharahap/master/suryaintrogif.gif" width="999px">
+
 
 You can call me Surya. I'm a Software Engineer (iOS) and a highly motivated final-year Informatics Engineering. I am always open to collaborating on projects and innovative ideas. I like to discover, learn new things, eager to learn, and humble. Find out more about me [website (@suryaharahap)](https://suryaharahap.me) & feel free to connect with me here. thanks
 
