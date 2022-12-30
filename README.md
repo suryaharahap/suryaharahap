@@ -14,7 +14,7 @@
 
 <div align="left">
   <a href="https://app.daily.dev/suryaharahap">
-    <img src="https://api.daily.dev/devcards/e58b544f69114ff6b54b98a24b8e22fe.png?r=dy8" 
+    <img src="https://github.com/devcards/suryaharahap/suryaharahap/blob/master/devcard.svg" 
          width="256" 
          align="right" 
          alt="Surya H's Dev Card"
