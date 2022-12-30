@@ -13,11 +13,11 @@
 <img src="https://img.shields.io/badge/Xcode-007ACC??logo=Xcode&logoColor=white"/>
 
 <div align="left">
-  <a href="https://app.daily.dev/suryaharahap">
-    <img src="https://github.com/devcards/suryaharahap/suryaharahap/blob/master/devcard.svg" 
-         width="256" 
-         align="right" 
-         alt="Surya H's Dev Card"
+  <a href="https://api.daily.dev/get?r=suryaharahap" target="_blank">
+    <img
+      width="256"
+      align="right"
+      src="https://raw.githubusercontent.com/suryaharahap/suryaharahap/devcard/devcard.svg"
     />
   </a>
 </div>
