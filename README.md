@@ -3,6 +3,8 @@
   <img src="https://komarev.com/ghpvc/?username=suryaharahap&label=Views&color=blue&style=plastic" alt="suryaharahap" /> 
 </p>
 
+<img src="https://github.com/suryaharahap/suryaharahap/blob/master/img_notion.png" width="225"  alt="image_topright"/>
+
 [![Twitter: suryaharahap](https://img.shields.io/twitter/follow/SuryaHarahap18?style=social)](https://twitter.com/SuryaHarahap18)
 [![Linkedin: suryaharahap](https://img.shields.io/badge/-suryaharahap-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/suryaharahap)](https://www.linkedin.com/in/suryaharahap)
 [![GitHub suryaharahap](https://img.shields.io/github/followers/suryaharahap?label=follow&style=social)](https://github.com/suryaharahap)
@@ -11,7 +13,7 @@
 <img src="https://img.shields.io/badge/iOS-000000?logo=ios&logoColor=white">
 <img src="https://img.shields.io/badge/swift-%23FA7343.svg?logo=swift&logoColor=white"/>
 <img src="https://img.shields.io/badge/Xcode-007ACC??logo=Xcode&logoColor=white"/>
-
+<br>
 <details>
   <br>
   <a href="https://app.daily.dev/suryaharahap">
